@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @arnavgangal
-- I'm a student at UCLA, studying Applied Mathematics with a Specialization in Computing
+- Hi! I'm Arnav.
+- I'm a junior at UCLA, studying Applied Mathematics with a Specialization in Computing
 - I’m currently interested in Monte Carlo Markov Chains, and how they can be used in gerrymandering algorithms
-- Reach me at arnavgangal@gmail.com
+- I am reachable at agangal00@gmail.com
 
 <!---
 arnavgangal/arnavgangal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
