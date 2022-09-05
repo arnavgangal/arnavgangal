@@ -1,6 +1,6 @@
 - Hi! I'm Arnav.
 - I'm a senior at UCLA, studying Applied Mathematics & Statistics with a Specialization in Computing.
-- I’m currently interested in Deep Learning architectures for partial differential equations.
+- I’m currently interested in using deep learning to solve partial differential equations.
 - I am reachable at agangal00@gmail.com.
 
 <!---
